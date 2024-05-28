@@ -2,7 +2,7 @@
 
 ### Dependencies
 - [Python 3.10](https://www.python.org/downloads/release/python-3100/)
-- [ShopifyAPI] (https://shopify.dev/docs/api)
+- [ShopifyAPI](https://shopify.dev/docs/api)
 
 ### Enviroment Variables
 - API_KEY
